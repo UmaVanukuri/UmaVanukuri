@@ -1,2 +1,2 @@
-# ContactUmaVanukuri
+# UmaVanukuri
 Hello World!!!
